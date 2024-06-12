@@ -32,5 +32,3 @@
 - **Dialogs:** Proficient in creating and managing different types of dialogues for user interaction.
 - **Splash Screens:** Implemented engaging splash screens for a polished app launch experience.
 - **Exception Handling:** Implemented robust exception handling to ensure smooth app performance.
-
-## Applications Developed 🚀
